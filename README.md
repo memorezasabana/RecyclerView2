@@ -1,0 +1,9 @@
+# RecyclerView2
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/1.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/2.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/3.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/4.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/5.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/6.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/7.jpg)
+![Alt Text](https://github.com/memorezasabana/RecyclerView2/blob/master/SS_RecyclerView2/8.jpg)
