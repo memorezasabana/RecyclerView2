@@ -10,6 +10,6 @@
         android:id="@+id/rv_heroes"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#D0D9E0"
+        android:background="@drawable/design2"
         tools:listitem="@layout/item_row_hero" />
 </RelativeLayout>
